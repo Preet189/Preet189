@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently pursing my MSc in **Artificial Intelligence from Stockholm University**
 
-- 👨‍💻 All of my projects are available at [https://preet189.github.io/Portfolio/](https://preet189.github.io/Portfolio/)
-
 - 📫 How to reach me **preetgupta189@gmail.com**
 
 - ⚡ Fun fact **I once participated in a sleep study to see if programmers dream in code. Turns out, I do!**
